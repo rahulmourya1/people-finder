@@ -1,0 +1,9 @@
+/* src/components/GoogleMapComponent/GoogleMapComponent.css */
+/* Customize styles as needed */
+
+.map-container {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  

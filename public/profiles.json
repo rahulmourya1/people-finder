@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Sharma",
+    "email": "amit.sharma@example.com",
+    "phone": "9123456780",
+    "photo": "https://images.unsplash.com/photo-1496345875659-11f7dd282d1d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A passionate software developer from Mumbai.",
+    "address": {
+      "street": "123 MG Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipcode": "400001",
+      "geo": {
+        "lat": "19.0760",
+        "lng": "72.8777"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Priya Singh",
+    "email": "priya.singh@example.com",
+    "phone": "9123456781",
+    "photo": "https://images.unsplash.com/photo-1623015739556-e6629b85cb55?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A creative graphic designer from Delhi.",
+    "address": {
+      "street": "45 Connaught Place",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zipcode": "110001",
+      "geo": {
+        "lat": "28.6315",
+        "lng": "77.2167"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Rahul Verma",
+    "email": "rahul.verma@example.com",
+    "phone": "9123456782",
+    "photo": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "An experienced data analyst from Bangalore.",
+    "address": {
+      "street": "67 MG Road",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipcode": "560001",
+      "geo": {
+        "lat": "12.9716",
+        "lng": "77.5946"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Anjali Mehta",
+    "email": "anjali.mehta@example.com",
+    "phone": "9123456783",
+    "photo": "https://images.unsplash.com/photo-1675881149207-4b021be0ecdd?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A talented fashion designer from Jaipur.",
+    "address": {
+      "street": "89 MI Road",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zipcode": "302001",
+      "geo": {
+        "lat": "26.9124",
+        "lng": "75.7873"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "phone": "9123456784",
+    "photo": "https://images.unsplash.com/photo-1492447166138-50c3889fccb1?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A skilled mechanical engineer from Pune.",
+    "address": {
+      "street": "23 FC Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zipcode": "411004",
+      "geo": {
+        "lat": "18.5204",
+        "lng": "73.8567"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Neha Gupta",
+    "email": "neha.gupta@example.com",
+    "phone": "9123456785",
+    "photo": "https://images.unsplash.com/photo-1517556268337-1dd41647ffe4?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A proficient digital marketer from Kolkata.",
+    "address": {
+      "street": "101 Park Street",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zipcode": "700016",
+      "geo": {
+        "lat": "22.5726",
+        "lng": "88.3639"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Arjun Khadse",
+    "email": "arjun.khanna@example.com",
+    "phone": "9123456786",
+    "photo": "https://images.unsplash.com/photo-1615884764168-3b5d41db1f9f?q=80&w=418&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A creative content writer from Chennai.",
+    "address": {
+      "street": "55 Mount Road",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zipcode": "600002",
+      "geo": {
+        "lat": "13.0827",
+        "lng": "80.2707"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Meera Nair",
+    "email": "meera.nair@example.com",
+    "phone": "9123456787",
+    "photo": "https://images.unsplash.com/photo-1573047826190-694008ee6bce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "An innovative product manager from Kochi.",
+    "address": {
+      "street": "78 Marine Drive",
+      "city": "Kochi",
+      "state": "Kerala",
+      "zipcode": "682031",
+      "geo": {
+        "lat": "9.9312",
+        "lng": "76.2673"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "Karan Desai",
+    "email": "karan.desai@example.com",
+    "phone": "9123456788",
+    "photo": "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "An enthusiastic civil engineer from Ahmedabad.",
+    "address": {
+      "street": "12 CG Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zipcode": "380009",
+      "geo": {
+        "lat": "23.0225",
+        "lng": "72.5714"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Pooja Reddy",
+    "email": "pooja.reddy@example.com",
+    "phone": "9123456789",
+    "photo": "https://images.unsplash.com/photo-1489872450582-22e3b49ad471?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A creative UX designer from Hyderabad.",
+    "address": {
+      "street": "34 Banjara Hills",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zipcode": "500034",
+      "geo": {
+        "lat": "17.3850",
+        "lng": "78.4867"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "Suresh Patel",
+    "email": "suresh.patel@example.com",
+    "phone": "9123456790",
+    "photo": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=1921&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "An experienced architect from Surat.",
+    "address": {
+      "street": "78 Ring Road",
+      "city": "Surat",
+      "state": "Gujarat",
+      "zipcode": "395002",
+      "geo": {
+        "lat": "21.1702",
+        "lng": "72.8311"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "Ritu Kapoor",
+    "email": "ritu.kapoor@example.com",
+    "phone": "9123456791",
+    "photo": "https://images.unsplash.com/photo-1484210028946-6afddad79c66?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A skilled HR manager from Chandigarh.",
+    "address": {
+      "street": "99 Sector 17",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "zipcode": "160017",
+      "geo": {
+        "lat": "30.7333",
+        "lng": "76.7794"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "Vishal Joshi",
+    "email": "vishal.joshi@example.com",
+    "phone": "9123456792",
+    "photo": "https://media.istockphoto.com/id/1194247438/photo/serious-confident-young-entrepreneur.jpg?s=612x612&w=is&k=20&c=W8WwGody5arTFi0DS-w5UEGQiKq2e4ljlW0kQyyZv6M=",
+    "description": "A passionate chef from Goa.",
+    "address": {
+      "street": "56 Beach Road",
+      "city": "Panaji",
+      "state": "Goa",
+      "zipcode": "403001",
+      "geo": {
+        "lat": "15.4909",
+        "lng": "73.8278"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "Anita Das",
+    "email": "anita.das@example.com",
+    "phone": "9123456793",
+    "photo": "https://images.unsplash.com/photo-1492106087820-71f1a00d2b11?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "An innovative entrepreneur from Bhubaneswar.",
+    "address": {
+      "street": "123 Janpath",
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "zipcode": "751001",
+      "geo": {
+        "lat": "20.2961",
+        "lng": "85.8245"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "Rajesh Kumar",
+    "email": "rajesh.kumar@example.com",
+    "phone": "9123456794",
+    "photo": "https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A proficient project manager from Lucknow.",
+    "address": {
+      "street": "88 Hazratganj",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "zipcode": "226001",
+      "geo": {
+        "lat": "26.8467",
+        "lng": "80.9462"
+      }
+    }
+  }
+]
